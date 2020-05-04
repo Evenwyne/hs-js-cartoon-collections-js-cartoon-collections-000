@@ -32,3 +32,9 @@ function findTheCheese (foods) {
   }
 return "no cheese!"
 }
+
+function wordsWithB (words) {
+  for (let i = 0; i < words.length; i++) {
+    if (words[i].startsWith("B"))
+  }
+}
