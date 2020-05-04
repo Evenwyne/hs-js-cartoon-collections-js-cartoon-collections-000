@@ -39,5 +39,5 @@ function wordsWithB (words) {
     if (words[i].startsWith("B")) {
 
     }
-  } return array
+  } return array.push
 }
