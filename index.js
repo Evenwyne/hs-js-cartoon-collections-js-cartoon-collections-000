@@ -34,6 +34,7 @@ return "no cheese!"
 }
 
 function wordsWithB (words) {
+  var array = []
   for (let i = 0; i < words.length; i++) {
     if (words[i].startsWith("B")) {
 
